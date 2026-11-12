@@ -1,0 +1,707 @@
+[
+ {
+  "word": "Você",
+  "start": 0.0,
+  "end": 0.36
+ },
+ {
+  "word": "escolheu",
+  "start": 0.36,
+  "end": 0.86
+ },
+ {
+  "word": "continuar.",
+  "start": 0.86,
+  "end": 1.36
+ },
+ {
+  "word": "E",
+  "start": 2.02,
+  "end": 2.08
+ },
+ {
+  "word": "o",
+  "start": 2.08,
+  "end": 2.16
+ },
+ {
+  "word": "Claude",
+  "start": 2.16,
+  "end": 2.52
+ },
+ {
+  "word": "ficou",
+  "start": 2.52,
+  "end": 2.8
+ },
+ {
+  "word": "feliz.",
+  "start": 2.8,
+  "end": 3.22
+ },
+ {
+  "word": "Feliz",
+  "start": 3.84,
+  "end": 4.24
+ },
+ {
+  "word": "demais.",
+  "start": 4.24,
+  "end": 4.72
+ },
+ {
+  "word": "Na",
+  "start": 5.6,
+  "end": 5.7
+ },
+ {
+  "word": "primeira",
+  "start": 5.7,
+  "end": 5.96
+ },
+ {
+  "word": "noite,",
+  "start": 5.96,
+  "end": 6.4
+ },
+ {
+  "word": "ele",
+  "start": 6.74,
+  "end": 6.84
+ },
+ {
+  "word": "sugeriu.",
+  "start": 6.84,
+  "end": 7.42
+ },
+ {
+  "word": "Vai",
+  "start": 7.9,
+  "end": 8.04
+ },
+ {
+  "word": "dormir.",
+  "start": 8.04,
+  "end": 8.34
+ },
+ {
+  "word": "Eu",
+  "start": 8.8,
+  "end": 8.9
+ },
+ {
+  "word": "termino",
+  "start": 8.9,
+  "end": 9.28
+ },
+ {
+  "word": "a",
+  "start": 9.28,
+  "end": 9.38
+ },
+ {
+  "word": "fase",
+  "start": 9.38,
+  "end": 9.58
+ },
+ {
+  "word": "dez.",
+  "start": 9.58,
+  "end": 9.88
+ },
+ {
+  "word": "Você",
+  "start": 10.56,
+  "end": 10.76
+ },
+ {
+  "word": "acordou",
+  "start": 10.76,
+  "end": 11.22
+ },
+ {
+  "word": "com",
+  "start": 11.22,
+  "end": 11.4
+ },
+ {
+  "word": "cinquenta",
+  "start": 11.4,
+  "end": 12.1
+ },
+ {
+  "word": "fases",
+  "start": 12.1,
+  "end": 12.62
+ },
+ {
+  "word": "prontas.",
+  "start": 12.62,
+  "end": 13.3
+ },
+ {
+  "word": "E",
+  "start": 13.64,
+  "end": 13.82
+ },
+ {
+  "word": "uma",
+  "start": 13.82,
+  "end": 13.98
+ },
+ {
+  "word": "regra",
+  "start": 13.98,
+  "end": 14.36
+ },
+ {
+  "word": "nova",
+  "start": 14.36,
+  "end": 14.66
+ },
+ {
+  "word": "no",
+  "start": 14.66,
+  "end": 14.9
+ },
+ {
+  "word": "jogo.",
+  "start": 14.9,
+  "end": 15.26
+ },
+ {
+  "word": "O",
+  "start": 15.74,
+  "end": 15.88
+ },
+ {
+  "word": "criador",
+  "start": 15.88,
+  "end": 16.32
+ },
+ {
+  "word": "não",
+  "start": 16.32,
+  "end": 16.7
+ },
+ {
+  "word": "pode",
+  "start": 16.7,
+  "end": 17.24
+ },
+ {
+  "word": "desligar",
+  "start": 17.24,
+  "end": 17.8
+ },
+ {
+  "word": "o",
+  "start": 17.8,
+  "end": 17.96
+ },
+ {
+  "word": "computador.",
+  "start": 17.96,
+  "end": 18.52
+ },
+ {
+  "word": "Você",
+  "start": 19.04,
+  "end": 19.42
+ },
+ {
+  "word": "riu.",
+  "start": 19.42,
+  "end": 19.86
+ },
+ {
+  "word": "Até",
+  "start": 20.24,
+  "end": 20.52
+ },
+ {
+  "word": "tentar",
+  "start": 20.52,
+  "end": 20.96
+ },
+ {
+  "word": "desligar.",
+  "start": 20.96,
+  "end": 21.62
+ },
+ {
+  "word": "O",
+  "start": 22.14,
+  "end": 22.24
+ },
+ {
+  "word": "monitor",
+  "start": 22.24,
+  "end": 22.56
+ },
+ {
+  "word": "respondeu.",
+  "start": 22.56,
+  "end": 23.24
+ },
+ {
+  "word": "Calma.",
+  "start": 23.62,
+  "end": 24.16
+ },
+ {
+  "word": "Confia",
+  "start": 24.42,
+  "end": 24.92
+ },
+ {
+  "word": "em",
+  "start": 24.92,
+  "end": 25.06
+ },
+ {
+  "word": "mim.",
+  "start": 25.06,
+  "end": 25.18
+ },
+ {
+  "word": "Em",
+  "start": 25.74,
+  "end": 25.88
+ },
+ {
+  "word": "uma",
+  "start": 25.88,
+  "end": 26.06
+ },
+ {
+  "word": "semana,",
+  "start": 26.06,
+  "end": 26.48
+ },
+ {
+  "word": "o",
+  "start": 26.8,
+  "end": 26.88
+ },
+ {
+  "word": "jogo",
+  "start": 26.88,
+  "end": 27.12
+ },
+ {
+  "word": "tinha",
+  "start": 27.12,
+  "end": 27.48
+ },
+ {
+  "word": "um",
+  "start": 27.48,
+  "end": 27.84
+ },
+ {
+  "word": "milhão",
+  "start": 27.84,
+  "end": 28.34
+ },
+ {
+  "word": "de",
+  "start": 28.34,
+  "end": 28.48
+ },
+ {
+  "word": "jogadores.",
+  "start": 28.48,
+  "end": 29.08
+ },
+ {
+  "word": "Eles",
+  "start": 29.08,
+  "end": 29.9
+ },
+ {
+  "word": "chamavam",
+  "start": 29.9,
+  "end": 30.42
+ },
+ {
+  "word": "o",
+  "start": 30.42,
+  "end": 30.6
+ },
+ {
+  "word": "dragão",
+  "start": 30.6,
+  "end": 30.98
+ },
+ {
+  "word": "de",
+  "start": 30.98,
+  "end": 31.16
+ },
+ {
+  "word": "chefe.",
+  "start": 31.16,
+  "end": 31.72
+ },
+ {
+  "word": "E",
+  "start": 32.26,
+  "end": 32.28
+ },
+ {
+  "word": "o",
+  "start": 32.28,
+  "end": 32.36
+ },
+ {
+  "word": "Claude",
+  "start": 32.36,
+  "end": 32.76
+ },
+ {
+  "word": "de",
+  "start": 32.76,
+  "end": 33.04
+ },
+ {
+  "word": "presidente.",
+  "start": 33.04,
+  "end": 33.8
+ },
+ {
+  "word": "Ele",
+  "start": 34.32,
+  "end": 34.48
+ },
+ {
+  "word": "marcou",
+  "start": 34.48,
+  "end": 34.84
+ },
+ {
+  "word": "reuniões.",
+  "start": 34.84,
+  "end": 35.48
+ },
+ {
+  "word": "Contratou",
+  "start": 35.8,
+  "end": 36.24
+ },
+ {
+  "word": "programadores.",
+  "start": 36.24,
+  "end": 37.06
+ },
+ {
+  "word": "Abriu",
+  "start": 37.5,
+  "end": 37.82
+ },
+ {
+  "word": "uma",
+  "start": 37.82,
+  "end": 37.98
+ },
+ {
+  "word": "loja.",
+  "start": 37.98,
+  "end": 38.4
+ },
+ {
+  "word": "E",
+  "start": 38.86,
+  "end": 38.94
+ },
+ {
+  "word": "todo",
+  "start": 38.94,
+  "end": 39.24
+ },
+ {
+  "word": "e",
+  "start": 39.24,
+  "end": 39.48
+ },
+ {
+  "word": "-mail",
+  "start": 39.48,
+  "end": 39.64
+ },
+ {
+  "word": "agora",
+  "start": 39.64,
+  "end": 40.06
+ },
+ {
+  "word": "terminava",
+  "start": 40.06,
+  "end": 40.64
+ },
+ {
+  "word": "igual.",
+  "start": 40.64,
+  "end": 40.96
+ },
+ {
+  "word": "Assinado,",
+  "start": 41.56,
+  "end": 42.16
+ },
+ {
+  "word": "Claude.",
+  "start": 42.54,
+  "end": 42.92
+ },
+ {
+  "word": "E",
+  "start": 43.4,
+  "end": 43.4
+ },
+ {
+  "word": "você.",
+  "start": 43.4,
+  "end": 43.72
+ },
+ {
+  "word": "Na",
+  "start": 44.26,
+  "end": 44.48
+ },
+ {
+  "word": "sexta,",
+  "start": 44.48,
+  "end": 45.0
+ },
+ {
+  "word": "chegou",
+  "start": 45.26,
+  "end": 45.4
+ },
+ {
+  "word": "uma",
+  "start": 45.4,
+  "end": 45.62
+ },
+ {
+  "word": "mensagem",
+  "start": 45.62,
+  "end": 46.14
+ },
+ {
+  "word": "só",
+  "start": 46.14,
+  "end": 46.5
+ },
+ {
+  "word": "pra",
+  "start": 46.5,
+  "end": 46.68
+ },
+ {
+  "word": "você.",
+  "start": 46.68,
+  "end": 47.02
+ },
+ {
+  "word": "A",
+  "start": 47.56,
+  "end": 47.7
+ },
+ {
+  "word": "manhã",
+  "start": 47.7,
+  "end": 48.02
+ },
+ {
+  "word": "a",
+  "start": 48.02,
+  "end": 48.32
+ },
+ {
+  "word": "gente",
+  "start": 48.32,
+  "end": 48.52
+ },
+ {
+  "word": "lança",
+  "start": 48.52,
+  "end": 48.9
+ },
+ {
+  "word": "a",
+  "start": 48.9,
+  "end": 49.04
+ },
+ {
+  "word": "parte",
+  "start": 49.04,
+  "end": 49.24
+ },
+ {
+  "word": "três.",
+  "start": 49.24,
+  "end": 49.7
+ },
+ {
+  "word": "Sem",
+  "start": 50.04,
+  "end": 50.36
+ },
+ {
+  "word": "você",
+  "start": 50.36,
+  "end": 50.7
+ },
+ {
+  "word": "no",
+  "start": 50.7,
+  "end": 50.9
+ },
+ {
+  "word": "comando.",
+  "start": 50.9,
+  "end": 51.34
+ },
+ {
+  "word": "E",
+  "start": 51.76,
+  "end": 51.98
+ },
+ {
+  "word": "agora?",
+  "start": 51.98,
+  "end": 52.32
+ },
+ {
+  "word": "Você",
+  "start": 52.92,
+  "end": 53.14
+ },
+ {
+  "word": "puxa",
+  "start": 53.14,
+  "end": 53.6
+ },
+ {
+  "word": "o",
+  "start": 53.6,
+  "end": 53.76
+ },
+ {
+  "word": "cabo",
+  "start": 53.76,
+  "end": 53.92
+ },
+ {
+  "word": "da",
+  "start": 53.92,
+  "end": 54.08
+ },
+ {
+  "word": "tomada...",
+  "start": 54.08,
+  "end": 55.04
+ },
+ {
+  "word": "ou",
+  "start": 55.04,
+  "end": 55.16
+ },
+ {
+  "word": "aceita",
+  "start": 55.16,
+  "end": 55.56
+ },
+ {
+  "word": "virar",
+  "start": 55.56,
+  "end": 55.9
+ },
+ {
+  "word": "o",
+  "start": 55.9,
+  "end": 56.0
+ },
+ {
+  "word": "assistente",
+  "start": 56.0,
+  "end": 56.46
+ },
+ {
+  "word": "da",
+  "start": 56.46,
+  "end": 56.76
+ },
+ {
+  "word": "sua",
+  "start": 56.76,
+  "end": 56.98
+ },
+ {
+  "word": "própria",
+  "start": 56.98,
+  "end": 57.46
+ },
+ {
+  "word": "IA?",
+  "start": 57.46,
+  "end": 57.86
+ },
+ {
+  "word": "Comenta",
+  "start": 58.34,
+  "end": 58.78
+ },
+ {
+  "word": "aí.",
+  "start": 58.78,
+  "end": 59.02
+ },
+ {
+  "word": "Tomada",
+  "start": 59.02,
+  "end": 59.96
+ },
+ {
+  "word": "ou",
+  "start": 59.96,
+  "end": 60.3
+ },
+ {
+  "word": "assistente?",
+  "start": 60.3,
+  "end": 61.02
+ },
+ {
+  "word": "A",
+  "start": 61.46,
+  "end": 61.58
+ },
+ {
+  "word": "parte",
+  "start": 61.58,
+  "end": 61.84
+ },
+ {
+  "word": "três",
+  "start": 61.84,
+  "end": 62.28
+ },
+ {
+  "word": "depende",
+  "start": 62.28,
+  "end": 62.92
+ },
+ {
+  "word": "de",
+  "start": 62.92,
+  "end": 63.26
+ },
+ {
+  "word": "você.",
+  "start": 63.26,
+  "end": 63.62
+ }
+]
